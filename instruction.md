@@ -56,4 +56,5 @@ align  | align  | align
 
 ![orange](orange.png)
 
-конфликт
+2 конфликт приоритет гитхаб гитхаб репо (гл. ветка makdown_instruction)
+
